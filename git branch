@@ -1,0 +1,23 @@
+[33mcommit eb7b3c288d189104a7e494709db2ade4941afda7[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature/update-description-b[m[33m)[m
+Author: Hanzu <hanzuvives20@gmail.com>
+Date:   Thu Aug 27 19:17:49 2026 -0500
+
+    docs: improve project description
+
+[33mcommit f4a96e19b79120793feb9763aa4a247cbb04c4a1[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: arce25L <alllopez@unimagdalena.edu.co>
+Date:   Thu Aug 27 18:56:39 2026 -0500
+
+    docs: document repository management
+
+[33mcommit a8fe93e1112ad8bbd20a4fd1855743ac9d166128[m
+Author: arce25L <alllopez@unimagdalena.edu.co>
+Date:   Thu Aug 27 18:47:42 2026 -0500
+
+    docs: add project information
+
+[33mcommit 1032d5e5250e5c0c9b729e61a71ae504c0b71705[m
+Author: arce25L <alllopez@unimagdalena.edu.co>
+Date:   Thu Aug 27 18:44:44 2026 -0500
+
+    documento agregado: studenthub readme
