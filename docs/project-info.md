@@ -2,7 +2,7 @@
 
 ## Name
 
-StudentHub
+StudentHub And BumbleBee
 
 ## Purpose
 
