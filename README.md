@@ -10,20 +10,7 @@ StudentHub es una plataforma digital para gestionar estudiantes, cursos y servic
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
------ Preguntas Hanzu Vives Respuesta ----------
+----- Preguntas / respuesta ----------
 
 ### 1. ¿Cuál es la diferencia entre `git add` y `git commit`?
 
